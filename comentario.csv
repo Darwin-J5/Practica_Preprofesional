@@ -1,0 +1,11 @@
+id,contenido,fecha_creacion,requisito
+1,Se debe considerar la seguridad,2025-07-02,1
+2,Agregar validaciones de correo,2025-07-03,2
+3,Falta formato del PDF,2025-07-06,3
+4,Agregar validación al login,2025-07-02,1
+5,Revisar estándar OWASP,2025-07-07,4
+6,Incluir exportación en Excel,2025-07-09,3
+7,Documentar restricciones,2025-07-08,5
+8,Agregar roles en notificaciones,2025-07-10,8
+9,Mejorar la interfaz de carga,2025-07-10,6
+10,Añadir opciones de accesibilidad,2025-07-11,9

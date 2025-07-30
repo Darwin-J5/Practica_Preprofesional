@@ -1,0 +1,11 @@
+id,nombre,descripcion,tipo,estado,prioridad,fuente,fecha_registro,proyecto
+1,Inicio de sesión,Permitir el inicio de sesión de usuarios,Funcional,Propuesto,Alta,Docente,2025-07-01,1
+2,Registro de usuarios,Formulario de registro con validaciones,Funcional,Aprovado,Alta,Cliente,2025-07-02,1
+3,Generación de reportes,Descarga de reportes en PDF,Funcional,Implementado,Media,Reglamento,2025-07-05,2
+4,Base de datos segura,Encriptación de contraseñas,No Funcional,Aprovado,Alta,Docente,2025-07-06,3
+5,Soporte multiplataforma,Debe funcionar en móviles y PC,Restricciòn,Rechazado,Media,Cliente,2025-07-07,4
+6,Carga masiva de datos,Importar CSV para usuarios,Funcional,Implementado,Alta,Docente,2025-07-08,5
+7,Auditoría del sistema,Registro de actividad,No Funcional,Propuesto,Baja,Cliente,2025-07-09,6
+8,Notificaciones,Alertas al modificar requisitos,Funcional,Aprovado,Alta,Docente,2025-07-10,6
+9,Accesibilidad,Cumplir estándares de accesibilidad,No Funcional,Aprovado,Media,Reglamento,2025-07-11,6
+10,API externa,Integración con herramientas externas,Funcional,Rechazado,Alta,Docente,2025-07-12,6

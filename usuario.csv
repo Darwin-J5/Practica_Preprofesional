@@ -1,0 +1,9 @@
+id,nombre,apellido,correo,contrasenia,rol
+1,Carlos,Ramírez,carlos.ramirez@unl.edu.ec,1234,Estudiante
+2,María,Loja,maria.loja@unl.edu.ec,1234,Docente
+3,Juan,Jiménez,juan.jimenez@unl.edu.ec,1234,Estudiante
+4,Lucía,Castillo,lucia.castillo@unl.edu.ec,1234,Docente
+5,Pedro,Martínez,pedro.martinez@unl.edu.ec,1234,Estudiante
+6,Andrea,Vega,andrea.vega@unl.edu.ec,1234,Estudiante
+7,Sofía,Pineda,sofia.pineda@unl.edu.ec,1234,Estudiante
+8,Fernando,Ortiz,fernando.ortiz@unl.edu.ec,1234,Docente
